@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+    background-color: red;
+    background-image: url(/assets/images/crossed_cannons.png), alt="Crossed Cannons"; 
+}
