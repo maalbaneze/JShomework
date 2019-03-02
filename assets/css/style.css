@@ -4,5 +4,16 @@
 body {
     font-family: sans-serif;
     background-color: red;
-    background-image: url(/assets/images/crossed_cannons.png), alt="Crossed Cannons"; 
+    background-image: url(assets/images/crossed_cannons.png), alt="Crossed Cannons"; 
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+h1 {
+    font-size: 2em;
+    text-align:center;
+    color: yellow;
+}
+h2 {
+    text-align: center;
+    color: whitesmoke;
 }
