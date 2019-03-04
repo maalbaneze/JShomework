@@ -4,8 +4,9 @@
 body {
     font-family: sans-serif;
     background-color: red;
-    background-image: url(assets/images/crossed_cannons.png), alt="Crossed Cannons"; 
     background-repeat: no-repeat;
+}
+img {
     background-position: bottom;
 }
 h1 {
