@@ -1,3 +1,5 @@
 # JShomework
 
-Did not get the js to run.  I have a Keynote slide ti show my flowchart.
+Did not get the js to run.  I have a Keynote slide to show my flowchart.
+
+Deployed link: https://maalbaneze.github.io/JShomework/
